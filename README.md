@@ -1,4 +1,5 @@
 🍲 The Recipe
+
 The Recipe es una aplicación móvil desarrollada en Android Studio que permite a los usuarios buscar, crear, guardar y gestionar recetas de cocina. Utiliza Firebase como backend para almacenar datos de usuarios y recetas de manera segura y en tiempo real.
 
 📱 Características

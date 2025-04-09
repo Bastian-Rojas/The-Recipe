@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "650599702550",
+    "project_id": "recetas-f5f92",
+    "storage_bucket": "recetas-f5f92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650599702550:android:fc184fa98e73c9611b9537",
+        "android_client_info": {
+          "package_name": "com.example.apprecetario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650599702550-649ov90ge5sr1d2g1eqtv4um64a9guu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apprecetario",
+            "certificate_hash": "8e8d15ef61ab7243361b6155c8d6cb7fd374fa5f"
+          }
+        },
+        {
+          "client_id": "650599702550-84fki5hmv8q985rjlk5eple6h33dvskh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAizcVqEIKuNY2ol9rNUXKAFsPgyx9U5oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650599702550-84fki5hmv8q985rjlk5eple6h33dvskh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650599702550:android:1d0d235a096b204f1b9537",
+        "android_client_info": {
+          "package_name": "com.example.recetas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650599702550-84fki5hmv8q985rjlk5eple6h33dvskh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAizcVqEIKuNY2ol9rNUXKAFsPgyx9U5oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650599702550-84fki5hmv8q985rjlk5eple6h33dvskh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
